@@ -1,0 +1,31 @@
+/*
+   File name: app.css
+   Stu name: Huyen Anh Phan
+   Stu #: 301216123
+   Date: 10/16/22
+
+/* custom css*/
+body{
+   background-color: lightpink;
+   width: 1000px;
+   text-align: center;
+   margin: auto;
+}
+h1{
+   color:rgb(228, 108, 108);
+   text-align: center;
+   font-family: fantasy;
+}
+form {
+   background-color: rgb(235, 144, 144);
+   border: 2px solid;
+}
+.navbar .navbar-nav {
+   float: none;
+   vertical-align: top;
+   margin-left: 22%;
+ }
+ 
+ .navbar .navbar-collapse {
+   text-align: center;
+ }
